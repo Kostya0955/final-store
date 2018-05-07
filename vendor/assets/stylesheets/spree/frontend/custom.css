@@ -1,0 +1,142 @@
+
+
+a.cart-info.empty{
+	color: #4389f9 ;
+}
+a{
+	color: #4389f9  !important ;  
+
+}
+body{
+	font-family:  monospace !important;
+}
+
+div.col-md-3.col-sm-4{
+	width: 35% !important;
+}
+
+
+
+.header-top{
+	text-align: left !important;
+	background-color: #333333 !important;
+
+}
+aside#sidebar.col-sm-4.col-md-3{
+	background-color: white !important;
+}
+nav#taxonomies.sidebar-item{
+	background-color: white !important;
+}
+nav#top-nav-bar.user_bar{
+background-color: #333333 !important;
+}
+.list-group{
+	background-color: #333333 !important;
+}
+.list-group-item{
+	color: #ffc414 !important;
+}
+ h1{
+ 	color: black !important;
+ }
+.text{
+	color: black !important;
+}
+
+a:hover{
+	color: red  !important; 
+}
+
+#nav-bar{
+	background-color: #333333    !important;
+}
+#products .product-list-item {
+	
+
+	box-shadow: 0 0 5px 0 #4389f9 !important;
+}
+#product-images{
+	box-shadow: 1px 1px 3px 3px #4389f9 !important;
+}
+.col-smm-5{
+	text-align: right !important;
+	margin-right: 50px !important;
+	font-size: 30px !important;
+
+}
+.social{
+	padding: 1px 20% 1px 20% !important;
+}
+h5 #text{ 
+	color: red;
+}
+
+.row::before{
+	content: "" !important;
+}
+.primary-footer{
+	color:#ffc414  !important;
+	size: 20px !important;
+	margin-top: 300px !important;
+}
+.col-smm-4{
+	margin: -30px  !important;
+	}
+
+ul.footer-nav li{
+
+	font-size:  20px !important;
+}
+body, a,header{
+	color: #4389f9 ;
+
+}
+
+.logo_area a{
+color: #ffc414  !important;
+font-size: 30px !important;
+font-family:Impact;	
+}
+.logo_area a:hover{
+color: #EF8343 !important;	
+text-decoration: none !important;
+}
+.logo_area {
+background-color: #333333    !important;
+}
+.text_follow{
+	font-size: 40px !important;
+	text-align: center !important;
+	font-family: Impact;
+    color: #ffc414 !important;
+}
+.table-responsive{
+	overflow-x: visible !important;
+}
+hr{
+	border-top: 2px solid #EF8343;
+	color: #EF8343 !important;
+	size: 10px !important;
+}
+
+
+.social a{
+	padding: 0 20px !important;
+	font-size: 20px !important;
+}
+.search_area{
+	width: 40% !important;
+position: relative !important;
+}
+.slick-track {
+	height: 350px !important;
+}
+.follow{
+	font-size: 30px !important;
+	font-family: cursive;
+	 color: #ffc414 !important;
+}
+.text_follow{
+	font-size: 30px !important;
+}
